@@ -7,10 +7,11 @@
   "private": true,
   "scripts": {
     "postinstall": "husky install",
-    "format": "prettier --ignore-path .gitignore --write \"**/*.{json,md,yml}\""
+    "format": "prettier --ignore-path .gitignore --write \"**/*.{json,md,yml,sol}\""
   },
   "devDependencies": {
     "husky": "^5.0.0-beta.0",
-    "prettier": "^2.1.2"
+    "prettier": "^2.1.2",
+    "prettier-plugin-solidity": "^1.0.0-alpha.59"
   }
 }
