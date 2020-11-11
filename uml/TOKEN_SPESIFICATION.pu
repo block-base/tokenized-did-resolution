@@ -1,0 +1,5 @@
+@startuml
+title TOKEN_SPESIFICATION
+alice -> bob: request
+bob --> alice: response
+@enduml

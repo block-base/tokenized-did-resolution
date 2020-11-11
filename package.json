@@ -1,0 +1,15 @@
+{
+  "name": "tokenized_did_resolution",
+  "version": "0.0.1",
+  "description": "This is poc repository for Tokenized Did Resolution.",
+  "author": "block-base",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "husky install",
+    "format": "prettier --ignore-path .gitignore --write \"**/*.{json,md,yml}\""
+  },
+  "devDependencies": {
+    "husky": "^5.0.0-beta.0",
+    "prettier": "^2.1.2"
+  }
+}

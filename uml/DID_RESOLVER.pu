@@ -1,0 +1,5 @@
+@startuml
+title DID_RESOLVER
+alice -> bob: request
+bob --> alice: response
+@enduml

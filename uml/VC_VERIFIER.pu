@@ -1,0 +1,5 @@
+@startuml
+title VC_VERIFIER
+alice -> bob: request
+bob --> alice: response
+@enduml
