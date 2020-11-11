@@ -4,6 +4,7 @@
   "description": "This is poc repository for Tokenized Did Resolution.",
   "author": "block-base",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "postinstall": "husky install",
     "format": "prettier --ignore-path .gitignore --write \"**/*.{json,md,yml}\""
