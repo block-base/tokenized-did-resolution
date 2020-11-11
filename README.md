@@ -1,5 +1,7 @@
 ## Tokenized Did Resolution
 
+![](./uml/SYSTEM_OVERVIEW.png)
+
 This is poc repository for Tokenized Did Resolution. This repo will be consisted of 3 core modules.
 
 - Token Specification
@@ -53,6 +55,8 @@ This did methods is consisted of contract address and token Id, then did documen
 ## Why this procol is required?
 
 We currently working on ethereum erc721 based content management sysytem [bazaaar.io](https://github.com/block-base/bazaaar.io/)
+
+![](./uml/USECASE.png)
 
 In our use case, we want to let many kinds of organization can able to publish token, and integrate the tokenized rights management system to thier distribution service as add-on.
 
